@@ -1,6 +1,6 @@
 KOAKUMA-- but instead of images, crossword clues and answers as *****
 
-Should be able to reuse a lot of code from this.
+Should be able to reuse a lot of code from koakuma!
 
 # Koakuma!
 Discord bot for a Danbooru tag-guessing game. [**Play it here!**](https://discord.gg/ZyrkTTS)
