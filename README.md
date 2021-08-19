@@ -1,3 +1,7 @@
+KOAKUMA-- but instead of images, crossword clues and answers as *****
+
+Should be able to reuse a lot of code from this.
+
 # Koakuma!
 Discord bot for a Danbooru tag-guessing game. [**Play it here!**](https://discord.gg/ZyrkTTS)
 
@@ -22,3 +26,5 @@ Well, she fetches stuff from libraries.
 Store a bot client token in the environment variable `KOAKUMA_TOKEN`, then `python3 koakuma.py` to run the bot.
 
 If you set `KOAKUMA_REDIS_URL` it will be used for Redis-based scoreboards accessible with the `!scores` command. Make sure to `pip install redis`.
+
+
